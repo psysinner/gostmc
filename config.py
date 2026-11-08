@@ -23,7 +23,9 @@ BOT_NAME = getenv("BOT_NAME" , "Aqia")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "AqiaPro")
 # ---------------------------------------------------------
+API_URL = os.environ.get("SHRUTI_API_URL", "https://www.riteshyt.in")
 
+API_KEY = os.environ.get("SHRUTI_API_KEY", "riteshfree2627b9aa922c4c84e1779ec9")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
